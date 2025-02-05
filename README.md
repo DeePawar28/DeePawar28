@@ -31,5 +31,5 @@ Frameworks & Tools: Django, React.js, AWS, Angular
 ## 💡 Always curious, always learning. Open to collaborations, discussions, and innovative projects!
 
 ## 📩 Let's connect! 
-[LinkedIn](https://www.linkedin.com/in/deep-pawar/) | [Email](deepcpawar28@gmail.com) | Portfolio
+[LinkedIn](https://www.linkedin.com/in/deep-pawar/) | [Email](mailto:deepcpawar28@gmail.com?) | [Handshake](https://app.joinhandshake.com/profiles/wazmun)
 ##
