@@ -5,11 +5,11 @@ Hi there! 👋
 I'm Deep, a Computer Science Master's student at Illinois Tech with a passion for building scalable, secure, and innovative tech solutions. From cloud computing and big data to machine learning and blockchain, I love turning complex problems into elegant solutions.
 
 ## 🔥 What I Do:
-✅ Develop intelligent and efficient software solutions
+✅ Develop interactive and efficient software solutions
 
 ✅ Build full-stack web apps with modern frameworks
 
-✅ Explore cybersecurity, cryptography, and blockchain applications
+✅ Explore AI/ML , cryptography, and blockchain applications
 
 ✅ Lead & organize tech events and coding workshops
 
