@@ -18,7 +18,7 @@ Languages: Java, Python, C, C++, JavaScript, PHP
 
 Databases: MySQL, MongoDB, Oracle, SQL
 
-Frameworks & Tools: Django, React.js, AWS, Angular, Amazon AWS, Android Studio
+Frameworks & Tools: Django, React.js, Angular, Amazon AWS, Android Studio
 
 ## 🚀 Some Featured Projects:
 🔹 Hybrid Cryptography & Steganography for Cloud Security (Reduced security incidents by 30%)
