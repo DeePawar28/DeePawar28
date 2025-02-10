@@ -23,6 +23,8 @@ Frameworks & Tools: Django, React.js, AWS, Angular, Amazon AWS, Android Studio
 ## 🚀 Some Featured Projects:
 🔹 Hybrid Cryptography & Steganography for Cloud Security (Reduced security incidents by 30%)
 
+🔹 DDoS Attack Detection Using Random Forest Classifier (High-accuracy (81%) DDoS detection system)
+
 🔹 Blockchain-Based Medical Record Management (Improved data integrity by 25%)
 
 🔹 AI-Powered Blood Bank Inventory System (Optimized emergency response time by 18%)
