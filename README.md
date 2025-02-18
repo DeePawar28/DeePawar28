@@ -25,8 +25,6 @@ Frameworks & Tools: Django, React.js, Angular, Amazon AWS, Android Studio
 
 🔹 DDoS Attack Detection Using Random Forest Classifier (High-accuracy (81%) DDoS detection system)
 
-🔹 Blockchain-Based Medical Record Management (Improved data integrity by 25%)
-
 🔹 AI-Powered Blood Bank Inventory System (Optimized emergency response time by 18%)
 
 ##
