@@ -14,11 +14,11 @@ I'm Deep, a Computer Science Master's student at Illinois Tech with a passion fo
 ✅ Lead & organize tech events and coding workshops
 
 ## 🛠 Tech Stack:
-Languages: Java, Python, C, C++, JavaScript, PHP
+Languages: Java, Swift, Kotlin, Python, C, C++, JavaScript, TypeScript, PHP, Go, Ruby
 
-Databases: MySQL, MongoDB, Oracle, SQL
+Databases: MySQL, SQL Server, MongoDB, Oracle, PostgreSQL
 
-Frameworks & Tools: Django, React.js, Angular, Amazon AWS, Android Studio
+Frameworks & Tools: AWS, Docker, ETL, Hadoop, Spring Boot, AngularJS, React.js, Azure, Flask
 
 ## 🚀 Some Featured Projects:
 🔹 Hybrid Cryptography & Steganography for Cloud Security (Reduced security incidents by 30%)
