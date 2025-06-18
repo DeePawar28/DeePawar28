@@ -2,7 +2,7 @@
 
 Hi there! 👋 
 
-I'm Deep, a Master's graduate in Computer Science from Illinois Tech with a passion for building secure, scalable, and modular software systems. From cloud computing and big data tobackend development and blockchain, I love turning complex problems into elegant solutions.
+I'm Deep, a Master's graduate in Computer Science from Illinois Tech with a passion for building secure, scalable, and modular software systems. From cloud computing and big data to backend development, I love turning complex problems into elegant solutions.
 
 ## 🔥 What I Do:
 ✅ Designing and building backend systems with **Java** and **Spring Boot**  
